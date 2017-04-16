@@ -9,13 +9,46 @@ a:link{
   font-size: 18px;
 }
 
-.block1{
+#home{
   color: white;
   background-image:
 url("../images/the-flatiron-building.png");
+  background-size: cover;
 }
 
 .designs{
   font-weight: bold;
   font-size: 70px;
+}
+
+.block2 h2,
+.block4 h2{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.block2 p,
+.block4 p{
+  font-size: 14px;
+}
+
+.ourprocess{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.block3 p{
+  color: white;
+  background-image:
+url("../images/the-flatiron-building.png");
+  background-size: cover;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.block5{
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
 }
